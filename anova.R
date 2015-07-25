@@ -321,21 +321,21 @@ for (i in 1:max(fc$membership)){
 }
 gene.mod$gene<-as.vector(gene.mod$gene)
 
-annot<-read.table("Mt4.0v1_GenesProteinSeq_20130731_1800.annot.tab",
+annot<-read.table("./input/Mt4.0v1_GenesProteinSeq_20130731_1800.annot.tab",
                   header=F,sep="\t",stringsAsFactors=F,quote="")
 rownames(annot)<-annot[,1]
 gene.mod$description<-annot[gene.mod$gene,2]
 
-GO<-read.table("Mt4.0v1_IPR2GO_20131219_1700.tsv",
+GO<-read.table("./input/Mt4.0v1_IPR2GO_20131219_1700.tsv",
                header=F,sep="\t",stringsAsFactors=F,quote ="")
 rownames(GO)<-GO[,1]
 gene.mod$GO<-GO[gene.mod$gene,2]
 
 
-write.csv(gene.mod,"gene.mod.csv")
+write.csv(gene.mod,"./output/gene.mod.csv")
 #write.graph(expr.graph)
 
-gene.all<-read.csv("gene.mod.all.csv",stringsAsFactors = F)
+gene.all<-read.csv("./input/gene.mod.all.csv",stringsAsFactors = F)
 mtgene.all<-read.table("Mt4.0v1_GenesProteinSeq_20130731_1800.uniprot.select.tab",
                        header=F,sep="\t",stringsAsFactors=F,quote="")
 uniprot.all<-read.table("uniprot.head",
@@ -356,7 +356,7 @@ gene.all$description<-mtgene.all[gene.all$gene,]$description
 gene.all$description_Mt40<-annot[gene.all$gene,2]
 gene.all$GO_Mt40<-GO[gene.all$gene,2]
 
-write.csv(gene.all,"gene.nod.all.csv")
+write.csv(gene.all,"./output/gene.nod.all.csv")
 
 
 # go enrichment

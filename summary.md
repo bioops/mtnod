@@ -2,7 +2,7 @@
 
 ## 1. some known nodulation genes
 
-[start.fa](./start.fa)
+./other/start.fa
 
 [reference](http://www.nature.com/ncomms/journal/v1/n1/fig_tab/ncomms1009_F6.html)
 
@@ -75,29 +75,7 @@ cut -f2 start.blast.edit.tab >start.lst.txt
 
 download expression data from [mtgea](http://mtgea.noble.org/v3/experiments.php) (select 'All Means' and 'Mtr: Medicago truncatula only')
 
-- Number of Experiments: 277
-- Number of GeneChips: 739
-
-Sample list
-
-```bash
-grep -oh 'Mean (.*)' samples.txt | sed 's/.*(//' | sed 's/)//' > samples.lst
-wc -l samples.lst
-# 274
-```
-
-It's difficult to download all expression data once, so I had to download a few samples per time, and then combine all these samples together.
-
-[combine.R](combine.R)
-
-```
-Mtr.6956.1.S1_at and Mtr.51192.1.S1_at does not vary much, and are removed.
-```
-
-```R
-
-
-```
+## 3. Prepare input for anova.R
 
 ```bash
 grep -E '^>' Mt4.0v1_GenesProteinSeq_20130731_1800.fasta >Mt4.0v1_GenesProteinSeq_20130731_1800.annot.txt
