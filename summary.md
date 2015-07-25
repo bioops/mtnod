@@ -73,7 +73,8 @@ cut -f2 start.blast.edit.tab >start.lst.txt
 
 ## 2. Get co-expressed probesets
 
-download expression data from [mtgea](http://mtgea.noble.org/v3/experiments.php) (select 'All Means' and 'Mtr: Medicago truncatula only')
+download expression data from [mtgea](http://mtgea.noble.org/v3/experiments.php)
+
 
 ## 3. Prepare input for anova.R
 
