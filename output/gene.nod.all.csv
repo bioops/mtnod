@@ -1,0 +1,377 @@
+"","gene","module","degree","description","GO","uniprot","gene_name","description_Mt40","preselected"
+"1","Medtr0041s0030.1",1,19,"EIN2-like protein, nramp transporter","GO:0005215,GO:0006810,GO:0016020","tr|B3GN62|B3GN62_MEDTR","Skl1","EIN2-like protein, nramp transporter","SKL1"
+"2","Medtr0095s0120.1",2,6,"Chromosome condensation regulator RCC1 repeat protein",NA,"tr|A0A072TIN2|A0A072TIN2_MEDTR","MTR_0095s0120","chromosome condensation regulator RCC1 repeat protein",NA
+"3","Medtr0110s0060.1",3,10,"Pentatricopeptide (PPR) repeat protein","GO:0005515","tr|A0A072TT30|A0A072TT30_MEDTR","MTR_0110s0060","pentatricopeptide (PPR) repeat protein",NA
+"4","Medtr0236s0050.1",2,4,"Peptide/nitrate transporter",NA,"tr|A0A072TRZ4|A0A072TRZ4_MEDTR","MTR_0236s0050","peptide/nitrate transporter",NA
+"5","Medtr0256s0050.1",4,17,"NBS-LRR type disease resistance protein","GO:0006952","tr|A0A072TRT0|A0A072TRT0_MEDTR","MTR_0256s0050","NBS-LRR type disease resistance protein",NA
+"6","Medtr0388s0020.1",4,2,"SAUR-like auxin-responsive family protein",NA,"tr|G7J151|G7J151_MEDTR","MTR_0388s0020","SAUR-like auxin-responsive family protein",NA
+"7","Medtr0549s0020.1",0,0,"C4-dicarboxylate transporter/malic acid transporter",NA,"tr|A0A072TE30|A0A072TE30_MEDTR","MTR_0549s0020","C4-dicarboxylate transporter/malic acid transporter",NA
+"8","Medtr1g006600.1",0,0,"Exostosin family protein",NA,"tr|G7IB43|G7IB43_MEDTR","MTR_1g006600","exostosin family protein",NA
+"9","Medtr1g006695.1",4,1,"E3 ubiquitin-protein ligase HERC2-like protein",NA,"tr|A0A072VCE3|A0A072VCE3_MEDTR","MTR_1g006695","E3 ubiquitin-protein ligase HERC2-like protein",NA
+"10","Medtr1g008350.1",3,4,"Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein",NA,"tr|G7I4C4|G7I4C4_MEDTR","MTR_1g008350","peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein",NA
+"11","Medtr1g008980.1",1,3,"ABC1 family protein","GO:0016772","tr|G7I544|G7I544_MEDTR","MTR_1g008980","ABC1 family protein",NA
+"12","Medtr1g009200.1",1,7,"LATD/NIP",NA,"tr|D2IU94|D2IU94_MEDTR","MTR_1g009200","peptide/nitrate transporter plant",NA
+"13","Medtr1g010250.1",4,28,"Wall-associated receptor kinase-like protein, putative","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|A0A072VNU8|A0A072VNU8_MEDTR","MTR_1g010250","wall-associated receptor kinase-like protein, putative",NA
+"14","Medtr1g015185.1",3,23,"PHD finger alfin-like protein","GO:0005515,GO:0008270","tr|A0A072VES1|A0A072VES1_MEDTR","MTR_1g015185","PHD finger alfin-like protein",NA
+"15","Medtr1g016080.1",3,4,"Alkaline phytoceramidase (APHC)",NA,"tr|G7I9X5|G7I9X5_MEDTR","MTR_1g016080","alkaline phytoceramidase (APHC)",NA
+"16","Medtr1g017080.1",0,0,"BP","GO:0003677,GO:0003700,GO:0005634,GO:0006355,GO:0043565","tr|X2D315|X2D315_MEDTR","MTR_1g017080","homeobox knotted-like protein",NA
+"17","Medtr1g017140.1",3,21,"Myb transcription factor","GO:0003677,GO:0003682","tr|A0A072VEW3|A0A072VEW3_MEDTR","MTR_1g017140","myb transcription factor",NA
+"18","Medtr1g019970.1",3,18,"Heme oxygenase 1 protein",NA,"tr|A0A072VE08|A0A072VE08_MEDTR","MTR_1g019970","heme oxygenase 1 protein",NA
+"19","Medtr1g021320.1",0,0,"Plant-specific B3-DNA-binding domain protein","GO:0003677,GO:0006355","tr|G7I4K4|G7I4K4_MEDTR","MTR_1g021320","plant-specific B3-DNA-binding domain protein",NA
+"20","Medtr1g025610.1",1,14,"Vacuolar protein sorting-associated protein 35",NA,"tr|G7I7R8|G7I7R8_MEDTR","MTR_1g025610","vacuolar protein sorting-associated 35A-like protein",NA
+"21","Medtr1g025920.1",0,2,"LA-related protein 6 LA RNA-binding domain protein",NA,"tr|G7I7U5|G7I7U5_MEDTR","MTR_1g025920","LA-related protein 6 LA RNA-binding domain protein",NA
+"22","Medtr1g028380.1",10,6,"Abscisic acid receptor PYL9-like protein",NA,"tr|A0A072VQL7|A0A072VQL7_MEDTR","MTR_1g028380","abscisic acid receptor PYL9-like protein",NA
+"23","Medtr1g029400.1",1,10,"Transcriptional corepressor SEUSS-like protein",NA,"tr|A0A072VQS3|A0A072VQS3_MEDTR","MTR_1g029400","transcriptional corepressor SEUSS-like protein",NA
+"24","Medtr1g030770.1",2,5,"NB-ARC domain disease resistance protein","GO:0006952","tr|A0A072VFH1|A0A072VFH1_MEDTR","MTR_1g030770","NB-ARC domain disease resistance protein",NA
+"25","Medtr1g031540.1",0,0,"Receptor-like kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7I979|G7I979_MEDTR","MTR_1g031540","receptor-like kinase",NA
+"26","Medtr1g031640.1",2,1,"Pathogenesis-related protein bet V I family protein",NA,"tr|G7I986|G7I986_MEDTR","MTR_1g031640","pathogenesis-related protein bet V I family protein",NA
+"27","Medtr1g034450.1",3,9,"Pyridine nucleotide-disulfide oxidoreductase domain protein",NA,"tr|A0A072VG58|A0A072VG58_MEDTR","MTR_1g034450","pyridine nucleotide-disulfide oxidoreductase domain protein",NA
+"28","Medtr1g035250.1",0,0,"PPR containing plant-like protein","GO:0005515","tr|G7IA39|G7IA39_MEDTR","MTR_1g035250","PPR containing plant-like protein",NA
+"29","Medtr1g038430.1",10,3,"DnaJ heat shock amino-terminal domain protein",NA,"tr|G7IBD4|G7IBD4_MEDTR","MTR_1g038430","DnaJ heat shock amine-terminal domain protein",NA
+"30","Medtr1g040560.1",0,0,"Sucrose phosphate phosphatase","GO:0000287,GO:0003824,GO:0005986,GO:0008152,GO:0016791,GO:0050307","tr|G7IDI2|G7IDI2_MEDTR","MTR_1g040560","sucrose phosphate phosphatase",NA
+"31","Medtr1g045930.1",0,0,"Triacylglycerol lipase, putative","GO:0005515","tr|G7I787|G7I787_MEDTR","MTR_1g045930","triacylglycerol lipase, putative",NA
+"32","Medtr1g046250.1",0,0,"Coenzyme F420-reducing hydrogenase, beta subunit",NA,"tr|A0A072VIA1|A0A072VIA1_MEDTR","MTR_1g046250","coenzyme F420-reducing hydrogenase, beta subunit",NA
+"33","Medtr1g050230.1",0,0,"Uncharacterized protein",NA,"tr|G7I7A8|G7I7A8_MEDTR","MTR_1g050230","hypothetical protein",NA
+"34","Medtr1g050550.1",2,6,"MFS transporter",NA,"tr|G7I7D1|G7I7D1_MEDTR","MTR_1g050550","MFS transporter",NA
+"35","Medtr1g054305.1",3,11,"Homogentisate phytyltransferase",NA,"tr|A0A072VUE3|A0A072VUE3_MEDTR","MTR_1g054305","homogentisate phytyltransferase",NA
+"36","Medtr1g057460.1",2,5,"Peptide/nitrate transporter plant",NA,"tr|A0A072VV17|A0A072VV17_MEDTR","MTR_1g057460","peptide/nitrate transporter plant",NA
+"37","Medtr1g061170.1",10,4,"Heat shock transcription factor A3",NA,"tr|A0A072VJU9|A0A072VJU9_MEDTR","MTR_1g061170","heat shock transcription factor A3",NA
+"38","Medtr1g061940.1",0,0,"Eukaryotic aspartyl protease family protein","GO:0004190,GO:0006508","tr|G7IA56|G7IA56_MEDTR","MTR_1g061940","eukaryotic aspartyl protease family protein",NA
+"39","Medtr1g063120.1",4,21,"4-coumarate:CoA ligase-like protein",NA,"tr|A0A072VL68|A0A072VL68_MEDTR","MTR_1g063120","4-coumarate:CoA ligase-like protein",NA
+"40","Medtr1g067200.1",1,4,"Integral membrane protein, TerC family protein","GO:0016021","tr|A0A072VLM3|A0A072VLM3_MEDTR","MTR_1g067200","integral membrane protein, TerC family protein",NA
+"41","Medtr1g067220.1",4,18,"Uncharacterized protein",NA,"tr|A0A072VW60|A0A072VW60_MEDTR","MTR_1g067220","hypothetical protein",NA
+"42","Medtr1g072780.1",0,2,"PWWP domain protein",NA,"tr|G7I2L8|G7I2L8_MEDTR","MTR_1g072780","PWWP domain protein",NA
+"43","Medtr1g074160.1",0,0,"Auxin-induced 5NG4-like protein",NA,"tr|A0A072VX98|A0A072VX98_MEDTR","MTR_1g074160","auxin-induced 5NG4-like protein",NA
+"44","Medtr1g076370.1",10,10,"Non-specific serine/threonine protein kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0007165,GO:0016772","tr|A0A072VXI4|A0A072VXI4_MEDTR","MTR_1g076370","CBL-interacting kinase",NA
+"45","Medtr1g077540.1",0,0,"Major intrinsic protein (MIP) family transporter","GO:0005215,GO:0006810,GO:0016020","tr|A0A072VLM9|A0A072VLM9_MEDTR","MTR_1g077540","major intrinsic protein (MIP) family transporter",NA
+"46","Medtr1g077840.1",1,7,"OPT family oligopeptide transporter","GO:0055085","tr|A0A072VND8|A0A072VND8_MEDTR","MTR_1g077840","OPT family oligopeptide transporter",NA
+"47","Medtr1g079890.1",3,24,"ER membrane protein complex subunit-like protein","GO:0016020","tr|G7I684|G7I684_MEDTR","MTR_1g079890","ER membrane protein complex subunit-like protein",NA
+"48","Medtr1g080030.1",1,9,"Calcium-binding EF-hand protein","GO:0005509","tr|G7I697|G7I697_MEDTR","MTR_1g080030","calcium-binding EF-hand protein",NA
+"49","Medtr1g080210.1",2,2,"Light-dependent short hypocotyls protein",NA,"tr|G7I6S2|G7I6S2_MEDTR","MTR_1g080210","light-dependent short hypocotyls protein",NA
+"50","Medtr1g080330.1",3,9,"Myb-like transcription factor family protein","GO:0003677","tr|G7I6T3|G7I6T3_MEDTR","MTR_1g080330","myb-like transcription factor family protein",NA
+"51","Medtr1g080890.1",3,8,"Transcription factor UNE12-like protein","GO:0046983","tr|A0A072VNM4|A0A072VNM4_MEDTR","MTR_1g080890","transcription factor UNE12-like protein",NA
+"52","Medtr1g083310.1",0,0,"Heavy-metal-associated domain protein","GO:0030001,GO:0046872","tr|G7I8P5|G7I8P5_MEDTR","MTR_1g083310","heavy-metal-associated domain protein",NA
+"53","Medtr1g083620.1",0,0,"Phospholipase D p2-like protein","GO:0003824,GO:0005515,GO:0005543,GO:0008152","tr|G7I8S9|G7I8S9_MEDTR","MTR_1g083620","phospholipase D p2-like protein",NA
+"54","Medtr1g086390.1",3,2,"Polygalacturonase/glycoside hydrolase family protein","GO:0004650,GO:0005975","tr|G7ICS4|G7ICS4_MEDTR","MTR_1g086390","polygalacturonase/glycoside hydrolase family protein",NA
+"55","Medtr1g087200.1",0,0,"Universal stress family protein",NA,"tr|G7IDR7|G7IDR7_MEDTR","MTR_1g087200","universal stress family protein",NA
+"56","Medtr1g088765.1",4,14,"Indole-3-acetic acid-amido synthetase",NA,"tr|A0A072VP69|A0A072VP69_MEDTR","MTR_1g088765","indole-3-acetic acid-amido synthetase",NA
+"57","Medtr1g088860.1",2,1,"Nuclear transcription factor Y protein","GO:0003677,GO:0046982","tr|I3TAW4|I3TAW4_MEDTR","NF-YB6","nuclear transcription factor Y protein",NA
+"58","Medtr1g093630.1",4,33,"Carbohydrate-binding protein of the ER protein",NA,"tr|A0A072VPY1|A0A072VPY1_MEDTR","MTR_1g093630","carbohydrate-binding protein of the ER protein",NA
+"59","Medtr1g094115.1",3,4,"C2H2 zinc finger protein, putative","GO:0005622,GO:0008270","tr|A0A072VNU9|A0A072VNU9_MEDTR","MTR_1g094115","C2H2 zinc finger protein, putative",NA
+"60","Medtr1g094145.1",4,12,"DUF4050 family protein",NA,"tr|A0A072VNV4|A0A072VNV4_MEDTR","MTR_1g094145","DUF4050 family protein",NA
+"61","Medtr1g096970.1",1,4,"DUF668 family protein",NA,"tr|A0A072VPK0|A0A072VPK0_MEDTR","MTR_1g096970","DUF668 family protein",NA
+"62","Medtr1g100250.1",1,19,"ATP-binding protein","GO:0004672,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7IEP0|G7IEP0_MEDTR","MTR_1g100250","ATP-binding protein",NA
+"63","Medtr1g106550.1",3,27,"ATP-dependent Clp protease proteolytic subunit","GO:0004252,GO:0006508","tr|G7IET9|G7IET9_MEDTR","MTR_1g106550","ATP-dependent Clp protease proteolytic protein",NA
+"64","Medtr1g107490.1",10,13,"Stress enhanced protein",NA,"tr|A0A072VR04|A0A072VR04_MEDTR","MTR_1g107490","stress enhanced protein",NA
+"65","Medtr1g115295.1",0,0,"Methionyl-tRNA synthetase","GO:0000166,GO:0004812,GO:0004825,GO:0005524,GO:0005737,GO:0006418,GO:0006431","tr|A0A072VS17|A0A072VS17_MEDTR","MTR_1g115295","methionyl-tRNA synthetase",NA
+"66","Medtr1g484940.1",1,6,"Fungal proteinase A, aspartic proteinase superfamily protein","GO:0004190,GO:0006508","tr|A0A072VYH6|A0A072VYH6_MEDTR","MTR_1g484940","fungal proteinase A, aspartic proteinase superfamily protein",NA
+"67","Medtr2g005810.1",4,16,"LRR receptor-like kinase family protein","GO:0004672,GO:0004674,GO:0004713,GO:0005515,GO:0005524,GO:0006468,GO:0016772","tr|G7IN89|G7IN89_MEDTR","MTR_2g005810","LRR receptor-like kinase family protein",NA
+"68","Medtr2g005870.1",4,8,"Ion channel pollux-like protein","GO:0000166","tr|G7IN96|G7IN96_MEDTR","MTR_2g005870","ion channel pollux-like protein","DMI1"
+"69","Medtr2g006020.1",1,3,"Ribosome biogenesis protein BOP1 homolog","GO:0005515","tr|G7INL9|G7INL9_MEDTR","MTR_2g006020","transducin/WD40 repeat protein",NA
+"70","Medtr2g006880.1",1,8,"S3 self-incompatibility locus-linked pollen 3.15 protein",NA,"tr|G7IPG0|G7IPG0_MEDTR","MTR_2g006880","S3 self-incompatibility locus-linked pollen 3.15 protein",NA
+"71","Medtr2g009110.2",1,14,"Splicing factor 3B subunit 1","GO:0005488","tr|A0A072V474|A0A072V474_MEDTR","MTR_2g009110","splicing factor 3B subunit 1",NA
+"72","Medtr2g009660.1",1,6,"Costars family protein abracl protein",NA,"tr|G7IS63|G7IS63_MEDTR","MTR_2g009660","costars family protein abracl protein",NA
+"73","Medtr2g009690.1",0,0,"Dynamin 3A-like protein","GO:0003924,GO:0005525","tr|G7IS66|G7IS66_MEDTR","MTR_2g009690","dynamin 3A-like protein",NA
+"74","Medtr2g012440.1",4,13,"S1/P1 nuclease family protein","GO:0016788","tr|G7ILF4|G7ILF4_MEDTR","MTR_2g012440","S1/P1 nuclease family protein",NA
+"75","Medtr2g012630.1",0,6,"Katanin p80 WD40 repeat-containing subunit B1 homolog","GO:0005515","tr|G7ILH1|G7ILH1_MEDTR","MTR_2g012630","katanin p80 WD40 repeat subunit B1-like protein",NA
+"76","Medtr2g013450.1",3,22,"PPR containing plant protein","GO:0005515","tr|G7IPS0|G7IPS0_MEDTR","MTR_2g013450","PPR containing plant protein",NA
+"77","Medtr2g013900.1",1,4,"Protein kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|Q2HTT4|Q2HTT4_MEDTR","MTR_2g013900","tyrosine kinase family protein",NA
+"78","Medtr2g014210.1",1,1,"Glyoxysomal processing protease, glyoxysomal-like protein","GO:0003824","tr|G7ISD6|G7ISD6_MEDTR","MTR_2g014210","glyoxysomal processing protease, glyoxysomal-like protein",NA
+"79","Medtr2g015690.1",4,7,"Phospholipase A1",NA,"tr|G7IKB6|G7IKB6_MEDTR","MTR_2g015690","phospholipase A1",NA
+"80","Medtr2g020850.1",4,4,"Transmembrane protein, putative",NA,"tr|G7IFN3|G7IFN3_MEDTR","MTR_2g020850","transmembrane protein, putative",NA
+"81","Medtr2g026715.1",3,22,"Nudix hydrolase superfamily protein","GO:0016787","tr|A0A072V5S2|A0A072V5S2_MEDTR","MTR_2g026715","nudix hydrolase superfamily protein",NA
+"82","Medtr2g027360.1",1,2,"C2 and GRAM domain plant-like protein","GO:0005515","tr|G7IQ41|G7IQ41_MEDTR","MTR_2g027360","C2 and GRAM domain plant-like protein",NA
+"83","Medtr2g028940.1",4,27,"E3 ubiquitin-protein ligase LIN-like protein, putative","GO:0005488","tr|G7IJR0|G7IJR0_MEDTR","MTR_2g028940","E3 ubiquitin-protein ligase LIN-like protein, putative",NA
+"84","Medtr2g030630.1",1,22,"Translocon outer complex protein","GO:0016817","tr|G7IKY4|G7IKY4_MEDTR","MTR_2g030630","translocon outer complex protein",NA
+"85","Medtr2g036560.1",0,0,"PPR containing plant-like protein","GO:0005515","tr|A2Q1M9|A2Q1M9_MEDTR","MTR_2g036560","PPR containing plant-like protein",NA
+"86","Medtr2g036890.1",0,2,"U3 small nucleolar RNA-associated-like protein",NA,"tr|G7IN25|G7IN25_MEDTR","MTR_2g036890","U3 small nucleolar RNA-associated-like protein",NA
+"87","Medtr2g045780.1",4,7,"Phosphate transporter PHO1-like protein","GO:0016021","tr|A0A072VHT6|A0A072VHT6_MEDTR","MTR_2g045780","phosphate transporter PHO1-like protein",NA
+"88","Medtr2g048680.1",3,20,"Ankyrin","GO:0005515","tr|Q2HSQ0|Q2HSQ0_MEDTR","MtrDRAFT_AC151520g42v2","ankyrin repeat protein EMB506",NA
+"89","Medtr2g061230.1",3,10,"Zinc finger, C3HC4 type (RING finger) protein","GO:0005515,GO:0008270","tr|A0A072V9S9|A0A072V9S9_MEDTR","MTR_2g061230","zinc finger, C3HC4 type (RING finger) protein",NA
+"90","Medtr2g062640.2",3,8,"Natural resistance associated macrophage protein",NA,"tr|A0A072VJ62|A0A072VJ62_MEDTR","MTR_2g062640","natural resistance associated macrophage protein",NA
+"91","Medtr2g064310.1",0,1,"Metal transport protein","GO:0005385,GO:0016021,GO:0071577","tr|Q6VM20|Q6VM20_MEDTR","ZIP1","ZIP zinc/iron transport family protein",NA
+"92","Medtr2g064415.1",3,27,"Defective in cullin neddylation protein","GO:0005515","tr|A0A072VJB0|A0A072VJB0_MEDTR","MTR_2g064415","defective in cullin neddylation protein, putative",NA
+"93","Medtr2g075470.1",3,4,"Plant/T3F20-21 protein, putative",NA,"tr|G7IR11|G7IR11_MEDTR","MTR_2g075470","plant/T3F20-21 protein, putative",NA
+"94","Medtr2g078120.1",3,1,"tRNA dimethylallyltransferase","GO:0008033","tr|A0A072V993|A0A072V993_MEDTR","MTR_2g078120","tRNA dimethylallyltransferase",NA
+"95","Medtr2g079610.1",2,4,"Chromosome condensation regulator RCC1 repeat protein",NA,"tr|A0A072V9P3|A0A072V9P3_MEDTR","MTR_2g079610","chromosome condensation regulator RCC1 repeat protein",NA
+"96","Medtr2g087230.1",4,29,"Protein kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|Q2HSI2|Q2HSI2_MEDTR","MTR_2g087230","receptor kinase TMK1-like protein",NA
+"97","Medtr2g088430.1",1,14,"Glutamate receptor","GO:0004965,GO:0004970,GO:0005234,GO:0007186,GO:0016020,GO:0016021","tr|G7IU02|G7IU02_MEDTR","MTR_2g088430","glutamate receptor 2",NA
+"98","Medtr2g098420.1",4,8,"Uncharacterized protein",NA,"tr|G7IUF8|G7IUF8_MEDTR","MTR_2g098420","hypothetical protein",NA
+"99","Medtr2g099740.1",2,18,"Myb transcription factor","GO:0003677,GO:0003682","tr|G7IS44|G7IS44_MEDTR","MTR_2g099740","myb transcription factor",NA
+"100","Medtr2g100070.1",0,0,"Glucose-methanol-choline (GMC) oxidoreductase family protein","GO:0006066,GO:0008812,GO:0016614,GO:0050660,GO:0055114","tr|G7IUI3|G7IUI3_MEDTR","MTR_2g100070","glucose-methanol-choline (GMC) oxidoreductase family protein",NA
+"101","Medtr2g102243.1",2,4,"Sulfate/bicarbonate/oxalate exchanger and transporter sat-1","GO:0008271,GO:0008272,GO:0016020,GO:0055085","tr|A0A072VDQ1|A0A072VDQ1_MEDTR","MTR_2g102243","sulfate/bicarbonate/oxalate exchanger and transporter sat-1",NA
+"102","Medtr2g436560.1",3,20,"Chaperone DnaJ-domain protein",NA,"tr|A0A072V7B5|A0A072V7B5_MEDTR","MTR_2g436560","chaperone DnaJ-domain protein",NA
+"103","Medtr2g437130.1",3,9,"Transcription termination factor family protein",NA,"tr|A0A072V6P9|A0A072V6P9_MEDTR","MTR_2g437130","transcription termination factor family protein",NA
+"104","Medtr2g437370.2",3,4,"CW-type zinc-finger protein",NA,"tr|A0A072V7J5|A0A072V7J5_MEDTR","MTR_2g437370","CW-type zinc-finger protein",NA
+"105","Medtr2g437960.1",3,16,"mTERF protein",NA,"tr|A0A072V5T3|A0A072V5T3_MEDTR","MTR_2g437960","mTERF protein",NA
+"106","Medtr3g009160.1",0,0,"Intermediate peptidase",NA,"tr|G7IYL7|G7IYL7_MEDTR","MTR_3g009160","intermediate peptidase",NA
+"107","Medtr3g009190.1",3,15,"Rossmann-fold NAD(P)-binding domain protein","GO:0000166","tr|G7J0B2|G7J0B2_MEDTR","MTR_3g009190","rossmann-fold NAD(P)-binding domain protein",NA
+"108","Medtr3g010870.1",3,21,"F-box protein interaction domain protein","GO:0005515","tr|G7IVI5|G7IVI5_MEDTR","MTR_3g010870","F-box protein interaction domain protein",NA
+"109","Medtr3g011840.1",0,3,"Multidrug resistance protein ABC transporter family protein","GO:0000166,GO:0005524,GO:0006810,GO:0016021,GO:0016887,GO:0017111,GO:0042626,GO:0055085","tr|A0A072V473|A0A072V473_MEDTR","MTR_3g011840","multidrug resistance protein ABC transporter family protein",NA
+"110","Medtr3g012240.1",0,2,"Disease resistance protein (CC-NBS-LRR class) family protein","GO:0006952","tr|A0A072UT37|A0A072UT37_MEDTR","MTR_3g012240","disease resistance protein (CC-NBS-LRR class) family protein",NA
+"111","Medtr3g019360.1",2,10,"Plant U-box protein, putative","GO:0005488,GO:0005515","tr|G7IW55|G7IW55_MEDTR","MTR_3g019360","plant U-box protein, putative",NA
+"112","Medtr3g026400.1",2,4,"Glycoside hydrolase family 1 protein","GO:0003824,GO:0004553,GO:0005975","tr|A0A072UU47|A0A072UU47_MEDTR","MTR_3g026400","glycoside hydrolase family 1 protein",NA
+"113","Medtr3g027940.1",0,0,"DNA-damage-repair/toleration DRT100-like protein",NA,"tr|G7IWJ8|G7IWJ8_MEDTR","MTR_3g027940","DNA-damage-repair/toleration DRT100-like protein",NA
+"114","Medtr3g030250.1",3,1,"F-box protein interaction domain protein","GO:0005515","tr|G7IWP9|G7IWP9_MEDTR","MTR_3g030250","F-box protein interaction domain protein",NA
+"115","Medtr3g033000.1",0,0,"Polyamine oxidase",NA,"tr|G7J0U8|G7J0U8_MEDTR","MTR_3g033000","polyamine oxidase",NA
+"116","Medtr3g049150.1",10,7,"Spermidine hydroxycinnamoyl transferase",NA,"tr|G7J187|G7J187_MEDTR","MTR_3g049150","spermidine hydroxycinnamoyl transferase",NA
+"117","Medtr3g055240.1",3,20,"TATA-binding protein associated factor","GO:0005634,GO:0006352,GO:0046982","tr|G7J040|G7J040_MEDTR","MTR_3g055240","TATA-binding protein associated factor",NA
+"118","Medtr3g062340.1",2,3,"NB-ARC domain disease resistance protein","GO:0006952","tr|G7IV31|G7IV31_MEDTR","MTR_3g062340","NB-ARC domain disease resistance protein",NA
+"119","Medtr3g065350.1",0,2,"Peptide/nitrate transporter",NA,"tr|G7J9C5|G7J9C5_MEDTR","MTR_3g065350","peptide/nitrate transporter",NA
+"120","Medtr3g065380.1",3,11,"E3 ubiquitin-protein ligase ARI7, putative","GO:0005515,GO:0005622,GO:0008270","tr|G7J9C7|G7J9C7_MEDTR","MTR_3g065380","E3 ubiquitin-protein ligase ARI7, putative",NA
+"121","Medtr3g068030.1",0,0,"Ribulose bisphosphate carboxylase/oxygenase activase",NA,"tr|A0A072UZ59|A0A072UZ59_MEDTR","MTR_3g068030","ribulose bisphosphate carboxylase/oxygenase activase",NA
+"122","Medtr3g069500.1",2,4,"Peptide/nitrate transporter plant",NA,"tr|G7JA27|G7JA27_MEDTR","MTR_3g069500","peptide/nitrate transporter plant",NA
+"123","Medtr3g072710.1",2,15,"GRAS family transcription factor",NA,"tr|G7J334|G7J334_MEDTR","MTR_3g072710","GRAS family transcription factor","NSP2"
+"124","Medtr3g072800.1",4,26,"G-type lectin S-receptor-like Serine/Threonine-kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7J3J6|G7J3J6_MEDTR","MTR_3g072800","G-type lectin S-receptor-like Serine/Threonine-kinase",NA
+"125","Medtr3g073000.1",3,26,"Histone-lysine N-methyltransferase","GO:0005515,GO:0008270","tr|G7J3L4|G7J3L4_MEDTR","MTR_3g073000","histone-lysine N-methyltransferase",NA
+"126","Medtr3g075240.1",1,6,"O-linked N-acetylglucosamine transferase","GO:0005515","tr|G8A2H1|G8A2H1_MEDTR","MTR_3g075240","O-linked N-acetylglucosamine transferase",NA
+"127","Medtr3g075450.1",0,0,"Sieve element occlusion protein",NA,"tr|A0A072UZM7|A0A072UZM7_MEDTR","MTR_3g075450","sieve element occlusion protein",NA
+"128","Medtr3g077670.1",4,15,"Boron transporter-like protein",NA,"tr|G7J5E8|G7J5E8_MEDTR","MTR_3g077670","boron transporter-like protein",NA
+"129","Medtr3g079620.1",0,0,"Carboxypeptidase","GO:0004185,GO:0006508","tr|G7J646|G7J646_MEDTR","MTR_3g079620","serine carboxypeptidase-like protein",NA
+"130","Medtr3g082750.1",0,3,"Unusual kinase, putative","GO:0016772","tr|G7J8V4|G7J8V4_MEDTR","MTR_3g082750","unusual kinase, putative",NA
+"131","Medtr3g083970.1",0,1,"DRIM (Down-regulated in metastasis)-like protein","GO:0005488","tr|G7JA73|G7JA73_MEDTR","MTR_3g083970","DRIM (down-regulated in metastasis)-like protein",NA
+"132","Medtr3g084030.1",3,2,"Rhodanese/cell cycle control phosphatase superfamily protein",NA,"tr|G7JA79|G7JA79_MEDTR","MTR_3g084030","rhodanese/cell cycle control phosphatase superfamily protein",NA
+"133","Medtr3g084410.1",4,9,"Selenium-binding-like protein","GO:0005515","tr|A0A072V0B0|A0A072V0B0_MEDTR","MTR_3g084410","selenium-binding-like protein",NA
+"134","Medtr3g084720.1",0,0,"Uncharacterized protein","GO:0008270","tr|G7JBB9|G7JBB9_MEDTR","MTR_3g084720","hypothetical protein",NA
+"135","Medtr3g084800.1",0,0,"DNA topoisomerase","GO:0003677,GO:0003916,GO:0003917,GO:0005694,GO:0006265","tr|G7JBC7|G7JBC7_MEDTR","MTR_3g084800","DNA topoisomerase I",NA
+"136","Medtr3g085550.1",3,18,"Ribosome biogenesis GTPase RsgA, putative","GO:0003924,GO:0005525","tr|G7JC10|G7JC10_MEDTR","MTR_3g085550","ribosome biogenesis GTPase RsgA, putative",NA
+"137","Medtr3g086700.1",0,0,"Zinc finger, C3HC4 type (RING finger) protein","GO:0005515,GO:0008270","tr|G7J368|G7J368_MEDTR","MTR_3g086700","zinc finger, C3HC4 type (RING finger) protein",NA
+"138","Medtr3g091310.1",1,11,"Histone-lysine N-methyltransferase","GO:0005515,GO:0008270","tr|G7J6V0|G7J6V0_MEDTR","MTR_3g091310","histone-lysine N-methyltransferase ATX3",NA
+"139","Medtr3g092220.1",4,27,"SAUR-like auxin-responsive family protein",NA,"tr|G7J880|G7J880_MEDTR","MTR_3g092220","SAUR-like auxin-responsive family protein",NA
+"140","Medtr3g092310.1",0,0,"CAZy family GT8 glycosyltransferase",NA,"tr|G7J889|G7J889_MEDTR","MTR_3g092310","CAZy family GT8 glycosyltransferase",NA
+"141","Medtr3g092900.1",2,15,"Caffeic acid O-methyltransferase","GO:0008168","tr|G7J914|G7J914_MEDTR","MTR_3g092900","caffeic acid O-methyltransferase",NA
+"142","Medtr3g094840.1",4,11,"4-alpha-glucanotransferase","GO:0003824,GO:0004134,GO:0005975","tr|G7JAA1|G7JAA1_MEDTR","MTR_3g094840","4-alpha-glucanotransferase/amyloplastic protein",NA
+"143","Medtr3g095100.1",1,7,"LRR receptor-like kinase family protein","GO:0004672,GO:0004674,GO:0004713,GO:0005515,GO:0005524,GO:0006468,GO:0016772","tr|G7JAC3|G7JAC3_MEDTR","MTR_3g095100","LRR receptor-like kinase family protein",NA
+"144","Medtr3g096710.1",3,15,"NAD-dependent protein deacetylase","GO:0070403","tr|G8A1N0|G8A1N0_MEDTR","MTR_3g096710","NAD-dependent protein deacetylase SRT2",NA
+"145","Medtr3g099010.1",0,0,"TB2/DP1, HVA22 family protein",NA,"tr|G7J3D8|G7J3D8_MEDTR","MTR_3g099010","TB2/DP1, HVA22 family protein",NA
+"146","Medtr3g099480.1",2,7,"Auxin-independent growth promoter-like protein",NA,"tr|G7J3Z2|G7J3Z2_MEDTR","MTR_3g099480","auxin-independent growth promoter-like protein",NA
+"147","Medtr3g102680.1",3,1,"Heat shock protein 70 (HSP70)-interacting protein, putative","GO:0005488,GO:0005515","tr|G8A2B6|G8A2B6_MEDTR","MTR_3g102680","heat shock protein 70 (HSP70)-interacting protein, putative",NA
+"148","Medtr3g104550.1",4,1,"Heat shock transcription factor A3","GO:0003700,GO:0005634,GO:0006355,GO:0043565","tr|G7J7P1|G7J7P1_MEDTR","MTR_3g104550","heat shock transcription factor A3",NA
+"149","Medtr3g105810.1",3,22,"Lariat debranching enzyme",NA,"tr|G7J9S6|G7J9S6_MEDTR","MTR_3g105810","lariat debranching enzyme",NA
+"150","Medtr3g107360.1",4,19,"Phospholipase D","GO:0003824,GO:0004630,GO:0005509,GO:0005515,GO:0008152,GO:0016020,GO:0046470","tr|G7JB30|G7JB30_MEDTR","MTR_3g107360","phospholipase D alpha 1",NA
+"151","Medtr3g107510.1",3,19,"Substrate carrier family protein","GO:0055085","tr|G7JB41|G7JB41_MEDTR","MTR_3g107510","substrate carrier family protein",NA
+"152","Medtr3g108640.1",1,1,"Protein arginine N-methyltransferase","GO:0006479,GO:0008168","tr|G7JCB5|G7JCB5_MEDTR","MTR_3g108640","arginine N-methyltransferase",NA
+"153","Medtr3g109800.1",4,33,"Class III homeodomain leucine zipper protein","GO:0003677,GO:0003700,GO:0006355,GO:0043565","tr|G7J3H4|G7J3H4_MEDTR","MTR_3g109800","class III homeodomain leucine zipper protein",NA
+"154","Medtr3g110160.1",3,14,"Tocopherol cyclase",NA,"tr|A0A072V2G5|A0A072V2G5_MEDTR","MTR_3g110160","tocopherol cyclase",NA
+"155","Medtr3g111360.1",2,13,"Uncharacterized protein",NA,"tr|G7J4L6|G7J4L6_MEDTR","MTR_3g111360","hypothetical protein",NA
+"156","Medtr3g113870.1",4,12,"NAD(P)-binding rossmann-fold protein","GO:0000166,GO:0008152,GO:0016491","tr|G7J4R6|G7J4R6_MEDTR","MTR_3g113870","NAD(P)-binding rossmann-fold protein",NA
+"157","Medtr3g115180.1",2,3,"Transmembrane protein, putative",NA,"tr|A0A072V382|A0A072V382_MEDTR","MTR_3g115180","transmembrane protein, putative",NA
+"158","Medtr3g117800.1",0,0,"Glycosyl hydrolase family 10 protein","GO:0003824,GO:0004553,GO:0005975","tr|G7J8H6|G7J8H6_MEDTR","MTR_3g117800","glycosyl hydrolase family 10 protein",NA
+"159","Medtr3g435150.1",0,0,"NAC transcription factor-like protein","GO:0003677,GO:0006355","tr|A0A072V531|A0A072V531_MEDTR","MTR_3g435150","NAC transcription factor-like protein",NA
+"160","Medtr3g437580.2",0,0,"Flavin-containing monooxygenase","GO:0004499,GO:0050660,GO:0050661,GO:0055114","tr|A0A072UUX6|A0A072UUX6_MEDTR","MTR_3g437580","flavin containing monooxygenase FMO-like protein",NA
+"161","Medtr3g449950.1",3,26,"Transducin family protein/WD-40 repeat protein","GO:0005515","tr|A0A072UW48|A0A072UW48_MEDTR","MTR_3g449950","transducin family protein/WD-40 repeat protein",NA
+"162","Medtr3g464150.1",2,11,"Double Clp-N motif P-loop nucleoside triphosphate hydrolase superfamily protein","GO:0005524","tr|A0A072UXI8|A0A072UXI8_MEDTR","MTR_3g464150","double Clp-N motif P-loop nucleoside triphosphate hydrolase superfamily protein",NA
+"163","Medtr3g466200.1",2,1,"Peroxidase","GO:0004601,GO:0006979,GO:0020037,GO:0055114","tr|A0A072UXA0|A0A072UXA0_MEDTR","MTR_3g466200","anionic peroxidase swpb3 protein",NA
+"164","Medtr4g005810.1",3,2,"Uncharacterized protein",NA,"tr|G7JVJ3|G7JVJ3_MEDTR","MTR_4g005810","hypothetical protein",NA
+"165","Medtr4g006210.1",0,0,"F-box/LRR protein, putative",NA,"tr|G7JVM8|G7JVM8_MEDTR","MTR_4g006210","F-box/LRR protein, putative",NA
+"166","Medtr4g011630.1",1,1,"Drug resistance transporter-like ABC domain protein","GO:0000166,GO:0005524,GO:0016887,GO:0017111","tr|A0A072UHZ1|A0A072UHZ1_MEDTR","MTR_4g011630","drug resistance transporter-like ABC domain protein",NA
+"167","Medtr4g013335.1",2,4,"Disease resistance-responsive, dirigent domain protein",NA,"tr|A0A072UGM1|A0A072UGM1_MEDTR","MTR_4g013335","disease resistance-responsive, dirigent domain protein",NA
+"168","Medtr4g021490.1",0,0,"Serine carboxypeptidase-like protein","GO:0004185,GO:0006508","tr|G7JTF9|G7JTF9_MEDTR","MTR_4g021490","serine carboxypeptidase-like protein",NA
+"169","Medtr4g022460.1",4,13,"LRR and NB-ARC domain disease resistance protein","GO:0006952","tr|G7JUK2|G7JUK2_MEDTR","MTR_4g022460","LRR and NB-ARC domain disease resistance protein",NA
+"170","Medtr4g022850.1",3,1,"Antheraxanthin epoxidase/zeaxanthin epoxidase","GO:0008152,GO:0016491","tr|G7JVQ7|G7JVQ7_MEDTR","MTR_4g022850","antheraxanthin epoxidase/zeaxanthin epoxidase",NA
+"171","Medtr4g029730.1",10,1,"Uncharacterized protein",NA,"tr|I3SMU0|I3SMU0_MEDTR","MTR_4g029730","hypothetical protein",NA
+"172","Medtr4g037515.1",3,9,"tRNA-dihydrouridine synthase","GO:0003824","tr|A0A072UJ85|A0A072UJ85_MEDTR","MTR_4g037515","tRNA-dihydrouridine synthase",NA
+"173","Medtr4g044110.1",0,0,"Cytokinin oxidase/dehydrogenase-like protein","GO:0003824,GO:0008762,GO:0016491,GO:0016614,GO:0050660,GO:0055114","tr|G7JVV7|G7JVV7_MEDTR","MTR_4g044110","cytokinin oxidase/dehydrogenase-like protein",NA
+"174","Medtr4g053630.1",2,16,"Subtilisin-like serine protease","GO:0004252,GO:0006508","tr|G7JIH4|G7JIH4_MEDTR","MTR_4g053630","subtilisin-like serine protease",NA
+"175","Medtr4g055920.1",1,6,"DNA-binding and zinc-finger protein","GO:0005515,GO:0008270","tr|G7JM68|G7JM68_MEDTR","MTR_4g055920","DNA-binding and zinc-finger protein",NA
+"176","Medtr4g055990.1",3,8,"F-box/RNI/FBD-like domain protein",NA,"tr|A0A072UVN2|A0A072UVN2_MEDTR","MTR_4g055990","F-box/RNI/FBD-like domain protein",NA
+"177","Medtr4g058990.1",1,1,"Double-stranded RNA-binding motif protein","GO:0003725","tr|A0A072ULT8|A0A072ULT8_MEDTR","MTR_4g058990","double-stranded RNA-binding motif protein",NA
+"178","Medtr4g060460.1",0,1,"Auxin response factor","GO:0003677,GO:0006355,GO:0046983","tr|G7JQF5|G7JQF5_MEDTR","MTR_4g060460","auxin response factor-like protein",NA
+"179","Medtr4g060780.1",10,1,"Allergen gly M Bd 28 kDa protein","GO:0045735","tr|G7JQI3|G7JQI3_MEDTR","MTR_4g060780","allergen gly M Bd 28 kDa protein",NA
+"180","Medtr4g067310.1",1,1,"PfkB family carbohydrate kinase","GO:0004747,GO:0006014,GO:0016773","tr|A0A072UKS2|A0A072UKS2_MEDTR","MTR_4g067310","pfkB family carbohydrate kinase",NA
+"181","Medtr4g067340.1",3,4,"S54 (Rhomboid) subfamily peptidase",NA,"tr|A0A072UMR9|A0A072UMR9_MEDTR","MTR_4g067340","S54 (rhomboid) subfamily peptidase",NA
+"182","Medtr4g069500.1",0,0,"Polyol/monosaccharide transporter 1","GO:0005215,GO:0006810,GO:0016020,GO:0022891,GO:0055085","tr|A0A072UM27|A0A072UM27_MEDTR","MTR_4g069500","polyol/monosaccharide transporter 1",NA
+"183","Medtr4g070950.1",2,4,"LRR receptor-like kinase",NA,"tr|G7JIK1|G7JIK1_MEDTR","MTR_4g070950","LRR receptor-like kinase",NA
+"184","Medtr4g070970.1",2,8,"CLV1-like receptor kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|Q4QVZ7|Q4QVZ7_MEDTR","SUNN","LRR receptor-like kinase family protein","SUNN"
+"185","Medtr4g071900.1",4,22,"Kinesin-like protein","GO:0003777,GO:0005524,GO:0005875,GO:0007018","tr|G7JJW4|G7JJW4_MEDTR","MTR_4g071900","ATP-binding microtubule motor family protein",NA
+"186","Medtr4g072090.1",3,8,"BZIP transcription factor","GO:0003700,GO:0006355,GO:0043565","tr|G7JJX7|G7JJX7_MEDTR","MTR_4g072090","BZIP transcription factor",NA
+"187","Medtr4g072340.1",0,0,"Papain family cysteine protease","GO:0006508,GO:0008234","tr|G7JL32|G7JL32_MEDTR","MTR_4g072340","papain family cysteine protease",NA
+"188","Medtr4g077100.1",0,0,"Cinnamoyl-CoA reductase-like protein","GO:0000166","tr|G7JRN6|G7JRN6_MEDTR","MTR_4g077100","cinnamoyl-CoA reductase-like protein",NA
+"189","Medtr4g078765.1",1,2,"Uncharacterized protein",NA,"tr|A0A072UMU5|A0A072UMU5_MEDTR","MTR_4g078765","hypothetical protein",NA
+"190","Medtr4g080797.1",3,10,"Polyubiquitin 3","GO:0005515","tr|G7LI78|G7LI78_MEDTR","MTR_4g080797","polyubiquitin 3",NA
+"191","Medtr4g083630.1",0,0,"PPR containing plant-like protein",NA,"tr|G7JIR5|G7JIR5_MEDTR","MTR_4g083630","PPR containing plant-like protein",NA
+"192","Medtr4g084020.1",2,3,"Peptidase, trypsin-like serine and cysteine proteases","GO:0003824","tr|A2Q289|A2Q289_MEDTR","MTR_4g084020","trypsin family protein",NA
+"193","Medtr4g084080.1",1,1,"DCD (Development and cell death) domain protein",NA,"tr|G7JIU5|G7JIU5_MEDTR","MTR_4g084080","DCD (development and cell death) domain protein",NA
+"194","Medtr4g084140.1",1,15,"NAP1",NA,"tr|E3UV65|E3UV65_MEDTR","MTR_4g084140","Nck-associated-like protein","NAP1"
+"195","Medtr4g086660.1",2,13,"Calmodulin-domain kinase CDPK protein","GO:0004672,GO:0004674,GO:0004713,GO:0005509,GO:0005524,GO:0006468,GO:0016772","tr|G7JMG6|G7JMG6_MEDTR","MTR_4g086660","calmodulin-domain kinase CDPK protein",NA
+"196","Medtr4g087530.1",1,7,"SacI-like domain protein/WW domain protein","GO:0005515,GO:0042578","tr|G7JNP0|G7JNP0_MEDTR","MTR_4g087530","SacI-like domain protein/WW domain protein",NA
+"197","Medtr4g091320.1",1,5,"Armadillo/beta-catenin repeat protein","GO:0005488,GO:0005515","tr|G7JRW0|G7JRW0_MEDTR","MTR_4g091320","armadillo/beta-catenin repeat protein",NA
+"198","Medtr4g093040.1",0,0,"L-type lectin-domain receptor kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7JU23|G7JU23_MEDTR","MTR_4g093040","L-type lectin-domain receptor kinase",NA
+"199","Medtr4g094428.1",2,7,"Putative uncharacterized protein",NA,"tr|G8A1D6|G8A1D6_MEDTR","MTR_119s0026","G1-like protein",NA
+"200","Medtr4g094785.1",0,0,"Peptidyl-prolyl cis-trans isomerase","GO:0006457","tr|A0A072UQ15|A0A072UQ15_MEDTR","MTR_4g094785","FKBP-type peptidyl-prolyl cis-trans isomerase",NA
+"201","Medtr4g094992.1",1,9,"ATP-dependent RNA helicase dhx8-like protein","GO:0003676,GO:0004386,GO:0005524","tr|A0A072UQ74|A0A072UQ74_MEDTR","MTR_4g094992","ATP-dependent RNA helicase dhx8-like protein",NA
+"202","Medtr4g095660.1",1,17,"Acetamidase/formamidase, putative",NA,"tr|B7FKV4|B7FKV4_MEDTR","MTR_4g095660","acetamidase/formamidase, putative",NA
+"203","Medtr4g096900.2",3,1,"Aspartate carbamoyltransferase, catalytic chain","GO:0004070,GO:0006207,GO:0006520,GO:0016597,GO:0016743","tr|B9V281|B9V281_MEDTR","PyrB","aspartate carbamoyltransferase, catalytic chain",NA
+"204","Medtr4g097130.1",3,3,"MYB transcription factor","GO:0000786,GO:0003677,GO:0003682,GO:0005634,GO:0006334","tr|G7JE28|G7JE28_MEDTR","MTR_4g097130","MYB transcription factor",NA
+"205","Medtr4g098660.1",1,1,"Pentatricopeptide (PPR) repeat protein","GO:0005515","tr|G7JGI1|G7JGI1_MEDTR","MTR_4g098660","pentatricopeptide (PPR) repeat protein",NA
+"206","Medtr4g099400.1",4,1,"Expansin-B1-like protein","GO:0005576,GO:0019953","tr|A0A072UPK2|A0A072UPK2_MEDTR","MTR_4g099400","expansin-B1-like protein",NA
+"207","Medtr4g100600.1",4,38,"2OG-Fe(II) oxygenase family oxidoreductase","GO:0005506,GO:0016491,GO:0016706,GO:0055114","tr|G7JHQ5|G7JHQ5_MEDTR","MTR_4g100600","2OG-Fe(II) oxygenase family oxidoreductase",NA
+"208","Medtr4g104680.1",2,7,"Quinolinate synthetase A protein",NA,"tr|A0A072UQY1|A0A072UQY1_MEDTR","MTR_4g104680","quinolinate synthetase A protein",NA
+"209","Medtr4g109340.1",4,13,"C2H2-type zinc finger protein","GO:0005622,GO:0008270","tr|A0A072V1J8|A0A072V1J8_MEDTR","MTR_4g109340","C2H2-type zinc finger protein",NA
+"210","Medtr4g114930.1",0,0,"Transducin family protein/WD-40 repeat protein","GO:0005515","tr|G7JE61|G7JE61_MEDTR","MTR_4g114930","transducin family protein/WD-40 repeat protein",NA
+"211","Medtr4g116277.1",10,7,"Plant/F18G18-20 protein",NA,"tr|I3SMU6|I3SMU6_MEDTR","MTR_4g116277","plant/F18G18-20 protein",NA
+"212","Medtr4g118780.1",4,27,"Cyclin-dependent kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7JJ27|G7JJ27_MEDTR","MTR_4g118780","cyclin-dependent kinase",NA
+"213","Medtr4g119980.1",1,16,"Kinesin-like protein","GO:0003777,GO:0005524,GO:0005875,GO:0007018","tr|G7JLI3|G7JLI3_MEDTR","MTR_4g119980","P-loop nucleoside triphosphate hydrolase superfamily protein",NA
+"214","Medtr4g120340.1",3,12,"Plastid developmental protein DAG",NA,"tr|A0A072UR55|A0A072UR55_MEDTR","MTR_4g120340","plastid developmental protein DAG",NA
+"215","Medtr4g121930.1",4,24,"Uncharacterized protein",NA,"tr|G7JMU1|G7JMU1_MEDTR","MTR_4g121930","hypothetical protein",NA
+"216","Medtr4g127770.1",3,1,"Lysine--tRNA ligase","GO:0000166,GO:0004812,GO:0004824,GO:0005524,GO:0005737,GO:0006418,GO:0006430","tr|G7JUD6|G7JUD6_MEDTR","MTR_4g127770","lysine-tRNA ligase-like protein",NA
+"217","Medtr4g127950.1",3,16,"Replication protein A 32 kDa subunit-like protein",NA,"tr|G7JVE0|G7JVE0_MEDTR","MTR_4g127950","replication protein A 32 kDa subunit-like protein",NA
+"218","Medtr4g131400.1",2,20,"Temperature-induced lipocalin","GO:0005215","tr|Q38JD9|Q38JD9_MEDTR","TIL'","temperature-induced lipocalin",NA
+"219","Medtr5g004800.1",0,0,"C2 domain protein","GO:0005515","tr|B7FIF5|B7FIF5_MEDTR","MTR_5g004800","C2 domain protein",NA
+"220","Medtr5g006100.1",0,0,"OTU-like cysteine protease",NA,"tr|A0A072UCN7|A0A072UCN7_MEDTR","MTR_5g006100","OTU-like cysteine protease",NA
+"221","Medtr5g007860.1",0,1,"Pre-mRNA processing protein PRP39, putative",NA,"tr|G7K6I4|G7K6I4_MEDTR","MTR_5g007860","pre-mRNA processing protein PRP39, putative",NA
+"222","Medtr5g008210.1",1,3,"Hydrogen peroxide induced protein, putative",NA,"tr|G7K7U6|G7K7U6_MEDTR","MTR_5g008210","hydrogen peroxide induced protein, putative",NA
+"223","Medtr5g009750.1",0,0,"Intracellular protein transporter USO1-like protein",NA,"tr|G7KAQ1|G7KAQ1_MEDTR","MTR_5g009750","intracellular protein transporter USO1-like protein",NA
+"224","Medtr5g011050.1",0,4,"Phospholipase D","GO:0003824,GO:0004630,GO:0005509,GO:0005515,GO:0008152,GO:0016020,GO:0046470","tr|G7KES0|G7KES0_MEDTR","MTR_5g011050","phospholipase D alpha 1",NA
+"225","Medtr5g011540.1",0,3,"MATE efflux family protein","GO:0006855,GO:0015238,GO:0015297,GO:0016020,GO:0055085","tr|G7KG46|G7KG46_MEDTR","MTR_5g011540","MATE efflux family protein",NA
+"226","Medtr5g013600.1",0,0,"Uncharacterized protein",NA,"tr|G7JYM8|G7JYM8_MEDTR","MTR_5g013600","hypothetical protein",NA
+"227","Medtr5g014140.1",3,9,"Pyruvate kinase","GO:0000287,GO:0003824,GO:0004743,GO:0006096,GO:0030955","tr|G7JZV6|G7JZV6_MEDTR","MTR_5g014140","pyruvate kinase family protein",NA
+"228","Medtr5g019040.1",4,32,"Nod factor perception protein","GO:0004672,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|Q0GXS4|Q0GXS4_MEDTR","NFP","Nod-factor receptor 5, putative","NFP"
+"229","Medtr5g020190.1",0,4,"Nucleolar RNA-associated protein, putative",NA,"tr|G7KDK7|G7KDK7_MEDTR","MTR_5g020190","nucleolar RNA-associated protein, putative",NA
+"230","Medtr5g020570.1",2,2,"Ubiquitin-protein ligase","GO:0000151,GO:0004842,GO:0005488,GO:0005515,GO:0016567","tr|G7KEW9|G7KEW9_MEDTR","MTR_5g020570","ubiquitin-protein ligase",NA
+"231","Medtr5g023290.1",0,2,"DUF241 domain protein",NA,"tr|G7JYU5|G7JYU5_MEDTR","MTR_5g023290","DUF241 domain protein",NA
+"232","Medtr5g025010.1",4,11,"Subtilisin-like serine protease","GO:0004252,GO:0006508","tr|G7K2N3|G7K2N3_MEDTR","MTR_5g025010","subtilisin-like serine protease",NA
+"233","Medtr5g025270.1",0,0,"Carotenoid cleavage dioxygenase 4a-6",NA,"tr|G7K3Y7|G7K3Y7_MEDTR","MTR_5g025270","carotenoid cleavage dioxygenase 4a-6",NA
+"234","Medtr5g025750.1",10,1,"Transmembrane protein, putative",NA,"tr|G7K428|G7K428_MEDTR","MTR_5g025750","transmembrane protein, putative",NA
+"235","Medtr5g026680.1",3,6,"Ribonuclease P protein subunit P38, related protein",NA,"tr|G7K6S6|G7K6S6_MEDTR","MTR_5g026680","ribonuclease P protein subunit P38, related protein",NA
+"236","Medtr5g026850.1",4,15,"CYCLOPS",NA,"tr|A7TUE1|A7TUE1_MEDTR","IPD3","cyclops protein, putative","CYCLOPS"
+"237","Medtr5g027500.1",4,3,"Acyl:CoA ligase",NA,"tr|G7K879|G7K879_MEDTR","MTR_5g027500","acyl:CoA ligase",NA
+"238","Medtr5g028420.1",0,0,"LRR and NB-ARC domain disease resistance protein, putative","GO:0005515,GO:0006952","tr|G7KAX4|G7KAX4_MEDTR","MTR_5g028420","LRR and NB-ARC domain disease resistance protein, putative",NA
+"239","Medtr5g030690.1",1,10,"Zinc finger, C3HC4 type (RING finger) protein","GO:0005515,GO:0008270","tr|G7KF54|G7KF54_MEDTR","MTR_5g030690","zinc finger, C3HC4 type (RING finger) protein",NA
+"240","Medtr5g033190.1",2,9,"Armadillo repeat only protein","GO:0005488,GO:0005515","tr|G7JYY3|G7JYY3_MEDTR","MTR_5g033190","armadillo repeat only protein",NA
+"241","Medtr5g033800.1",3,12,"Pmr5/Cas1p GDSL/SGNH-like acyl-esterase family protein",NA,"tr|G7K066|G7K066_MEDTR","MTR_5g033800","Pmr5/Cas1p GDSL/SGNH-like acyl-esterase family protein",NA
+"242","Medtr5g034990.1",0,1,"Nodulin MtN21/EamA-like transporter family protein",NA,"tr|G7K2S7|G7K2S7_MEDTR","MTR_5g034990","nodulin MtN21/EamA-like transporter family protein",NA
+"243","Medtr5g035080.1",0,5,"Pmr5/Cas1p GDSL/SGNH-like acyl-esterase family protein",NA,"tr|G7K2T6|G7K2T6_MEDTR","MTR_5g035080","Pmr5/Cas1p GDSL/SGNH-like acyl-esterase family protein",NA
+"244","Medtr5g037890.1",2,7,"Thioredoxin","GO:0006662,GO:0009055,GO:0015035,GO:0045454","tr|D8L5E0|D8L5E0_MEDTR","MTR_5g037890","thioredoxin-like protein",NA
+"245","Medtr5g041010.1",4,17,"Ribonuclease T2 family protein","GO:0003723,GO:0033897","tr|G7KFA7|G7KFA7_MEDTR","MTR_5g041010","ribonuclease T2 family protein",NA
+"246","Medtr5g045710.1",4,25,"Zinc-binding alcohol dehydrogenase family protein","GO:0000166,GO:0008270,GO:0016491,GO:0055114","tr|G7JZ48|G7JZ48_MEDTR","MTR_5g045710","zinc-binding alcohol dehydrogenase family protein",NA
+"247","Medtr5g054360.2",0,0,"Zn-dependent hydrolase of the beta-lactamase fold protein",NA,"tr|A0A072UFS2|A0A072UFS2_MEDTR","MTR_5g054360","Zn-dependent hydrolase of the beta-lactamase fold protein",NA
+"248","Medtr5g055940.1",3,5,"Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial","GO:0016884","tr|G7K0I2|G7K0I2_MEDTR","GATB","aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B",NA
+"249","Medtr5g061880.1",2,4,"High affinity sulfate transporter","GO:0008271,GO:0008272,GO:0016020,GO:0055085","tr|G7KA24|G7KA24_MEDTR","MTR_5g061880","high affinity sulfate transporter",NA
+"250","Medtr5g062310.1",1,12,"Sec14p-like phosphatidylinositol transfer family protein",NA,"tr|G7KA58|G7KA58_MEDTR","MTR_5g062310","Sec14p-like phosphatidylinositol transfer family protein",NA
+"251","Medtr5g064040.1",0,0,"Outer arm dynein light chain 1","GO:0005515","tr|G7KBA0|G7KBA0_MEDTR","MTR_5g064040","outer arm dynein light chain 1",NA
+"252","Medtr5g067980.1",0,0,"SNF2 domain protein/helicase domain protein","GO:0003676,GO:0004386,GO:0005515,GO:0005524,GO:0008270","tr|G7KD91|G7KD91_MEDTR","MTR_5g067980","SNF2 domain protein/helicase domain protein",NA
+"253","Medtr5g068770.1",0,0,"Lectin-like receptor kinase, putative","GO:0004672,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7K668|G7K668_MEDTR","MTR_5g068770","lectin-like receptor kinase, putative",NA
+"254","Medtr5g069330.3",3,11,"DEAD-box ATP-dependent RNA helicase","GO:0003676,GO:0004386,GO:0005524","tr|G7KE08|G7KE08_MEDTR","MTR_5g069330","DEAD-box ATP-dependent RNA helicase",NA
+"255","Medtr5g070690.1",2,17,"Cytochrome P450 family 71 protein","GO:0005506,GO:0009055,GO:0016705,GO:0020037,GO:0055114","tr|G7KE79|G7KE79_MEDTR","MTR_5g070690","cytochrome P450 family 71 protein",NA
+"256","Medtr5g070870.1",0,0,"Ubiquinol oxidase","GO:0007585,GO:0009916,GO:0055114","tr|G7KE90|G7KE90_MEDTR","MTR_5g070870","ubiquinol oxidase 1a",NA
+"257","Medtr5g072500.1",2,3,"Serine/Threonine-kinase DDB-G0267514-like protein, putative","GO:0004672,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7KEB1|G7KEB1_MEDTR","MTR_5g072500","Serine/Threonine-kinase DDB-G0267514-like protein, putative",NA
+"258","Medtr5g073930.1",0,0,"Uncharacterized protein",NA,"tr|G7K5Q0|G7K5Q0_MEDTR","MTR_5g073930","hypothetical protein",NA
+"259","Medtr5g074270.1",2,7,"GDSL-like lipase/acylhydrolase",NA,"tr|G7K5S1|G7K5S1_MEDTR","MTR_5g074270","GDSL-like lipase/acylhydrolase",NA
+"260","Medtr5g074690.1",1,9,"Translocon at the inner envelope membrane ofs 110 protein",NA,"tr|G7KFK1|G7KFK1_MEDTR","MTR_5g074690","translocon at the inner envelope membrane ofs 110 protein",NA
+"261","Medtr5g076270.1",2,2,"Auxin response factor","GO:0003677,GO:0006355,GO:0046983","tr|G7KFN6|G7KFN6_MEDTR","MTR_5g076270","auxin response factor 2",NA
+"262","Medtr5g082130.1",10,6,"Uncharacterized protein","GO:0005515","tr|G7KGW7|G7KGW7_MEDTR","MTR_5g082130","hypothetical protein",NA
+"263","Medtr5g082700.1",2,4,"Serine/Threonine kinase domain protein","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7K240|G7K240_MEDTR","MTR_5g082700","Serine/Threonine kinase domain protein",NA
+"264","Medtr5g083010.1",2,5,"Lateral organ boundaries (LOB) domain protein",NA,"tr|G7K270|G7K270_MEDTR","MTR_5g083010","lateral organ boundaries (LOB) domain protein",NA
+"265","Medtr5g085520.1",0,0,"Ankyrin repeat protein","GO:0005515","tr|G7KHB6|G7KHB6_MEDTR","MTR_5g085520","ankyrin repeat protein",NA
+"266","Medtr5g086130.1",4,22,"LysM domain-containing receptor-like kinase 3","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|Q6UD73|Q6UD73_MEDTR","LYK3","LysM receptor kinase K1B","LYK3"
+"267","Medtr5g086670.1",2,1,"Transmembrane protein, putative",NA,"tr|G7KCQ2|G7KCQ2_MEDTR","MTR_5g086670","transmembrane protein, putative",NA
+"268","Medtr5g090150.1",3,2,"PPR superfamily protein",NA,"tr|G7KCZ0|G7KCZ0_MEDTR","MTR_5g090150","PPR superfamily protein",NA
+"269","Medtr5g092370.1",0,1,"U3 small nucleolar RNA-associated protein","GO:0005488","tr|G7K8G8|G7K8G8_MEDTR","MTR_5g092370","U3 small nucleolar RNA-associated protein",NA
+"270","Medtr5g099060.1",4,15,"Nodule inception protein","GO:0005515","tr|C0LLV9|C0LLV9_MEDTR","NIN","nodule inception protein","NIN"
+"271","Medtr6g005210.1",3,7,"MAP kinase kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7KQ07|G7KQ07_MEDTR","MTR_6g005210","MAP kinase kinase",NA
+"272","Medtr6g008620.1",2,6,"Cytochrome P450 family 82 protein","GO:0005506,GO:0009055,GO:0016705,GO:0020037,GO:0055114","tr|G7KJF3|G7KJF3_MEDTR","MTR_6g008620","cytochrome P450 family 82 protein",NA
+"273","Medtr6g008690.1",2,1,"Peptide/nitrate transporter plant-like protein",NA,"tr|G7KJG0|G7KJG0_MEDTR","MTR_6g008690","peptide/nitrate transporter plant-like protein",NA
+"274","Medtr6g009090.1",0,0,"ABC transporter transmembrane region protein","GO:0000166,GO:0005524,GO:0006810,GO:0016021,GO:0016887,GO:0017111,GO:0042626,GO:0055085","tr|G7KJY1|G7KJY1_MEDTR","MTR_6g009090","ABC transporter transmembrane region protein",NA
+"275","Medtr6g015320.1",4,21,"Malonyl-CoA:isoflavone 7-O-glucoside malonyltransferase",NA,"tr|A0A072U6Q7|A0A072U6Q7_MEDTR","MTR_6g015320","malonyl-CoA:isoflavone 7-O-glucoside malonyltransferase",NA
+"276","Medtr6g016840.1",4,33,"Beta-glucan-binding protein",NA,"tr|G8A0J1|G8A0J1_MEDTR","MTR_6g016840","glycoside hydrolase family 81 protein",NA
+"277","Medtr6g021530.1",0,0,"GDSL-like lipase/acylhydrolase",NA,"tr|G7KMT3|G7KMT3_MEDTR","MTR_6g021530","GDSL-like lipase/acylhydrolase",NA
+"278","Medtr6g023580.1",3,5,"Uncharacterized protein",NA,"tr|G7KNM5|G7KNM5_MEDTR","MTR_6g023580","hypothetical protein",NA
+"279","Medtr6g042030.1",10,7,"Transmembrane protein, putative",NA,"tr|G7KIB4|G7KIB4_MEDTR","MTR_6g042030","transmembrane protein, putative",NA
+"280","Medtr6g048300.1",3,7,"Septum site determining protein MinD, putative","GO:0000918,GO:0006200,GO:0016887","tr|A0A072UAX9|A0A072UAX9_MEDTR","MTR_6g048300","septum site determining protein MinD, putative",NA
+"281","Medtr6g072540.1",3,2,"Disease resistance protein (TIR-NBS-LRR class)","GO:0005515,GO:0006952,GO:0007165","tr|G7KIG4|G7KIG4_MEDTR","MTR_6g072540","disease resistance protein (TIR-NBS-LRR class)",NA
+"282","Medtr6g072710.1",0,0,"Aldo/keto reductase family oxidoreductase","GO:0016491,GO:0055114","tr|G7KIH2|G7KIH2_MEDTR","MTR_6g072710","aldo/keto reductase family oxidoreductase",NA
+"283","Medtr6g074640.1",1,11,"Kinase superfamily protein","GO:0004672,GO:0004674,GO:0005524,GO:0006468,GO:0016772","tr|G7KJ55|G7KJ55_MEDTR","MTR_6g074640","kinase superfamily protein",NA
+"284","Medtr6g079380.1",0,0,"Pentatricopeptide (PPR) repeat protein",NA,"tr|A0A072UCZ1|A0A072UCZ1_MEDTR","MTR_6g079380","pentatricopeptide (PPR) repeat protein",NA
+"285","Medtr6g082180.1",4,13,"Uncharacterized protein","GO:0005515","tr|G7KM76|G7KM76_MEDTR","MTR_6g082180","hypothetical protein",NA
+"286","Medtr6g084590.1",2,12,"Uncharacterized protein",NA,"tr|A0A072UBQ9|A0A072UBQ9_MEDTR","MTR_6g084590","hypothetical protein",NA
+"287","Medtr6g088500.1",10,9,"Short-chain dehydrogenase/reductase","GO:0000166","tr|G7KPV9|G7KPV9_MEDTR","MTR_6g088500","short-chain dehydrogenase/reductase",NA
+"288","Medtr6g093060.1",1,2,"Transducin/WD40 repeat protein","GO:0005515","tr|A0A072UCU5|A0A072UCU5_MEDTR","MTR_6g093060","transducin/WD40 repeat protein",NA
+"289","Medtr6g472100.1",3,4,"Uncharacterized protein",NA,"tr|A0A072ULL0|A0A072ULL0_MEDTR","MTR_6g472100","hypothetical protein",NA
+"290","Medtr6g488150.2",0,0,"Auxin-induced protein","GO:0046983","tr|G8A0M2|G8A0M2_MEDTR","MTR_6g488150","auxin response factor",NA
+"291","Medtr7g007440.1",3,1,"Nodule Cysteine-Rich (NCR) secreted peptide","GO:0006869","tr|A0A072TVT5|A0A072TVT5_MEDTR","MTR_7g007440","Nodule Cysteine-Rich (NCR) secreted peptide",NA
+"292","Medtr7g015710.1",2,4,"PLC-like phosphodiesterase superfamily protein","GO:0006629,GO:0008081","tr|A0A072TWA0|A0A072TWA0_MEDTR","MTR_7g015710","PLC-like phosphodiesterase superfamily protein",NA
+"293","Medtr7g022870.1",2,2,"Sulfate/bicarbonate/oxalate exchanger and transporter sat-1","GO:0008271,GO:0008272,GO:0016020,GO:0055085","tr|G7KVN8|G7KVN8_MEDTR","MTR_7g022870","sulfate/bicarbonate/oxalate exchanger and transporter sat-1",NA
+"294","Medtr7g024580.1",2,1,"Heat shock cognate 70 kDa protein",NA,"tr|G7KXT9|G7KXT9_MEDTR","MTR_7g024580","heat shock cognate 70 kDa protein",NA
+"295","Medtr7g027960.1",2,3,"Cytochrome P450 family flavone synthase","GO:0005506,GO:0009055,GO:0016705,GO:0020037,GO:0055114","tr|G7L269|G7L269_MEDTR","MTR_7g027960","cytochrome P450 family flavone synthase",NA
+"296","Medtr7g029385.1",3,8,"RNA pseudouridine synthase","GO:0001522,GO:0003723,GO:0009451,GO:0009982","tr|A0A072TXY2|A0A072TXY2_MEDTR","MTR_7g029385","RNA pseudouridine synthase",NA
+"297","Medtr7g033685.1",3,12,"RNA-directed DNA methylation protein",NA,"tr|A0A072U8F1|A0A072U8F1_MEDTR","MTR_7g033685","RNA-directed DNA methylation protein",NA
+"298","Medtr7g034395.1",4,36,"Zinc-binding dehydrogenase family oxidoreductase","GO:0000166,GO:0008270,GO:0016491,GO:0016747","tr|A0A072TZA9|A0A072TZA9_MEDTR","MTR_7g034395","zinc-binding dehydrogenase family oxidoreductase",NA
+"299","Medtr7g061550.1",10,1,"Myb transcription factor","GO:0003677,GO:0003682","tr|Q0ZGS9|Q0ZGS9_MEDTR","PHAN","myb transcription factor",NA
+"300","Medtr7g062250.1",0,0,"Laccase","GO:0005507,GO:0046274,GO:0048046,GO:0052716,GO:0055114","tr|A0A072TZK1|A0A072TZK1_MEDTR","MTR_7g062250","laccase/diphenol oxidase family protein",NA
+"301","Medtr7g068340.1",3,23,"ADP/ATP carrier protein","GO:0055085","tr|G7KS97|G7KS97_MEDTR","MTR_7g068340","ADP/ATP carrier protein",NA
+"302","Medtr7g068810.1",1,6,"Nucleotide-binding protein","GO:0005515,GO:0016021,GO:0016192","tr|A0A072U0I8|A0A072U0I8_MEDTR","MTR_7g068810","nucleotide-binding protein",NA
+"303","Medtr7g070510.1",3,1,"Protein phosphatase 2C-like protein","GO:0003824","tr|G7KU50|G7KU50_MEDTR","MTR_7g070510","protein phosphatase 2C-like protein",NA
+"304","Medtr7g074820.1",2,1,"Dihydroflavonol reductase","GO:0000166","tr|G7KZB6|G7KZB6_MEDTR","MTR_7g074820","dihydroflavonol reductase",NA
+"305","Medtr7g076707.1",0,0,"PPR containing plant-like protein","GO:0005515","tr|A0A072U0V7|A0A072U0V7_MEDTR","MTR_7g076707","PPR containing plant-like protein",NA
+"306","Medtr7g078070.1",1,10,"Cysteine synthase","GO:0004124,GO:0006535","tr|G7L5N4|G7L5N4_MEDTR","MTR_7g078070","cysteine synthase/L-3-cyanoalanine synthase",NA
+"307","Medtr7g081665.1",4,21,"Serine/Threonine kinase family protein","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|A0A072UC53|A0A072UC53_MEDTR","MTR_7g081665","Serine/Threonine kinase family protein",NA
+"308","Medtr7g083575.1",0,0,"Uncharacterized protein",NA,"tr|A0A072U245|A0A072U245_MEDTR","MTR_7g083575","hypothetical protein",NA
+"309","Medtr7g085820.1",1,1,"Importin beta-3, putative","GO:0005488","tr|A5XEM2|A5XEM2_MEDTR","RAN BP","importin beta-3, putative",NA
+"310","Medtr7g086420.1",4,37,"Protein kinase","GO:0004672,GO:0004713,GO:0005515,GO:0005524,GO:0006468,GO:0016772","tr|Q2HVC0|Q2HVC0_MEDTR","MTR_7g086420","receptor-like kinase",NA
+"311","Medtr7g086690.1",2,6,"Cation calcium exchanger",NA,"tr|G7L1K1|G7L1K1_MEDTR","MTR_7g086690","cation calcium exchanger",NA
+"312","Medtr7g098410.1",2,3,"Salt stress response/antifungal domain protein",NA,"tr|G7KXF5|G7KXF5_MEDTR","MTR_7g098410","salt stress response/antifungal domain protein",NA
+"313","Medtr7g099270.1",3,4,"PfkB family carbohydrate kinase","GO:0004747,GO:0006014,GO:0016773","tr|G7KZI2|G7KZI2_MEDTR","MTR_7g099270","pfkB family carbohydrate kinase",NA
+"314","Medtr7g103210.1",1,7,"E3 ubiquitin-protein ligase","GO:0004842,GO:0005622,GO:0006464","tr|A0A072U2X8|A0A072U2X8_MEDTR","MTR_7g103210","E3 ubiquitin-protein ligase",NA
+"315","Medtr7g104330.1",4,4,"Purple acid phosphatase","GO:0003993,GO:0046872","tr|G7L615|G7L615_MEDTR","MTR_7g104330","purple acid phosphatase superfamily protein",NA
+"316","Medtr7g104940.1",2,4,"Auxin responsive SAUR protein",NA,"tr|Q2HTF3|Q2HTF3_MEDTR","MTR_7g104940","SAUR-like auxin-responsive family protein",NA
+"317","Medtr7g106190.1",1,2,"Armadillo/beta-catenin-like repeat protein","GO:0005488","tr|A0A072U4F3|A0A072U4F3_MEDTR","MTR_7g106190","armadillo/beta-catenin-like repeat protein",NA
+"318","Medtr7g106440.1",2,5,"33 kDa ribonucleoprotein","GO:0000166,GO:0003676","tr|A0A072U4H5|A0A072U4H5_MEDTR","MTR_7g106440","33 kDa ribonucleoprotein",NA
+"319","Medtr7g109800.1",0,0,"WRKY family transcription factor","GO:0003700,GO:0006355,GO:0043565","tr|G7KTN2|G7KTN2_MEDTR","MTR_7g109800","WRKY family transcription factor",NA
+"320","Medtr7g112320.1",3,7,"DNA polymerase III, epsilon subunit-like protein","GO:0003676,GO:0004527,GO:0005622","tr|G7KWH7|G7KWH7_MEDTR","MTR_7g112320","DNA polymerase III, epsilon subunit-like protein",NA
+"321","Medtr7g112350.1",1,12,"Importin subunit alpha","GO:0005488,GO:0005515,GO:0005634,GO:0005737,GO:0006606,GO:0008565","tr|G7KWI2|G7KWI2_MEDTR","MTR_7g112350","importin subunit alpha-1b",NA
+"322","Medtr7g112360.1",10,7,"Chaperone DnaJ domain protein",NA,"tr|G7KWI3|G7KWI3_MEDTR","MTR_7g112360","chaperone DnaJ domain protein",NA
+"323","Medtr7g112490.2",3,7,"Protein phosphatase 2C family protein","GO:0003824","tr|A0A072UFC9|A0A072UFC9_MEDTR","MTR_7g112490","protein phosphatase 2C family protein",NA
+"324","Medtr7g113780.1",0,0,"GNS1/SUR4 membrane family protein","GO:0016021","tr|Q2HTN1|Q2HTN1_MEDTR","MTR_7g113780","GNS1/SUR4 membrane family protein",NA
+"325","Medtr7g114080.1",3,14,"S-acyltransferase","GO:0008270","tr|G7KZR9|G7KZR9_MEDTR","MTR_7g114080","DHHC-type zinc finger protein",NA
+"326","Medtr8g007065.1",0,0,"Patatin","GO:0008152","tr|A0A072TM25|A0A072TM25_MEDTR","MTR_8g007065","patatin-like phospholipase",NA
+"327","Medtr8g010330.1",3,1,"Pescadillo homolog",NA,"tr|A0A072TMH4|A0A072TMH4_MEDTR","MTR_8g010330","pescadillo-like protein",NA
+"328","Medtr8g012340.1",3,13,"Peptidyl-prolyl cis-trans isomerase FKBP62-like protein","GO:0005515,GO:0006457","tr|G7LF61|G7LF61_MEDTR","MTR_8g012340","peptidyl-prolyl cis-trans isomerase FKBP62-like protein",NA
+"329","Medtr8g014080.1",1,4,"Transducin/WD-like repeat-protein","GO:0005515","tr|G7LGL1|G7LGL1_MEDTR","MTR_8g014080","transducin/WD-like repeat-protein",NA
+"330","Medtr8g014730.1",2,8,"LRR receptor-like kinase plant","GO:0004672,GO:0005524,GO:0006468,GO:0016772","tr|G7LGR2|G7LGR2_MEDTR","MTR_8g014730","LRR receptor-like kinase plant",NA
+"331","Medtr8g016230.1",0,0,"Beta-galactosidase","GO:0003824,GO:0004553,GO:0005975,GO:0030246","tr|A0A072TLH1|A0A072TLH1_MEDTR","MTR_8g016230","beta-galactosidase",NA
+"332","Medtr8g016940.1",0,0,"Beta-amyrin synthase","GO:0016866","tr|G7LHE5|G7LHE5_MEDTR","MTR_8g016940","beta-amyrin synthase",NA
+"333","Medtr8g018510.1",0,0,"Lipoxygenase","GO:0005506,GO:0005515,GO:0016165,GO:0016702,GO:0046872,GO:0055114","tr|G7LIX6|G7LIX6_MEDTR","MTR_8g018510","seed linoleate 9S-lipoxygenase",NA
+"334","Medtr8g019450.1",2,10,"Ankyrin repeat plant-like protein",NA,"tr|A0A072TNP5|A0A072TNP5_MEDTR","MTR_8g019450","ankyrin repeat plant-like protein",NA
+"335","Medtr8g020690.1",4,26,"Salicylic acid carboxyl methyltransferase",NA,"tr|G7L6V4|G7L6V4_MEDTR","MTR_8g020690","salicylic acid carboxyl methyltransferase",NA
+"336","Medtr8g020850.1",3,20,"C3HC4 zinc finger containing protein","GO:0005515,GO:0008270","tr|Q4VYC9|Q4VYC9_MEDTR","ZFP","E3 ubiquitin ligase",NA
+"337","Medtr8g021230.1",4,20,"Inter-alpha-trypsin inhibitor heavy chain-like protein","GO:0005515","tr|G7L7M3|G7L7M3_MEDTR","MTR_8g021230","inter-alpha-trypsin inhibitor heavy chain-like protein",NA
+"338","Medtr8g022980.1",1,1,"ARID/bright DNA-binding domain protein","GO:0003677,GO:0005622","tr|G7L956|G7L956_MEDTR","MTR_8g022980","ARID/bright DNA-binding domain protein",NA
+"339","Medtr8g027605.1",0,1,"Embryo defective 1703 protein, putative",NA,"tr|G8A2Y6|G8A2Y6_MEDTR","MTR_8g027605","embryo defective 1703 protein, putative",NA
+"340","Medtr8g027755.1",0,0,"Cyclic nucleotide-gated ion channel-like protein","GO:0003700,GO:0006355,GO:0043565","tr|A0A072TMD1|A0A072TMD1_MEDTR","MTR_8g027755","cyclic nucleotide-gated ion channel-like protein",NA
+"341","Medtr8g032830.1",0,0,"Disease resistance protein (TIR-NBS-LRR class), putative","GO:0000166,GO:0005515,GO:0006952,GO:0007165,GO:0017111","tr|A0A072TP67|A0A072TP67_MEDTR","MTR_8g032830","disease resistance protein (TIR-NBS-LRR class), putative",NA
+"342","Medtr8g033400.1",4,25,"D-isomer specific 2-hydroxyacid dehydrogenase domain protein","GO:0000166","tr|A0A072TNE4|A0A072TNE4_MEDTR","MTR_8g033400","D-isomer specific 2-hydroxyacid dehydrogenase domain protein",NA
+"343","Medtr8g036195.1",0,2,"NBS-LRR type disease resistance protein","GO:0006952","tr|A0A072TPB7|A0A072TPB7_MEDTR","MTR_8g036195","NBS-LRR type disease resistance protein",NA
+"344","Medtr8g039530.1",3,19,"Inositol polyphosphate multikinase beta-like protein",NA,"tr|G7LGR8|G7LGR8_MEDTR","MTR_8g039530","inositol polyphosphate multikinase beta-like protein",NA
+"345","Medtr8g039620.1",0,0,"Ankyrin repeat protein","GO:0005515","tr|G7LGS5|G7LGS5_MEDTR","MTR_8g039620","ankyrin repeat protein",NA
+"346","Medtr8g041670.1",2,2,"Receptor-like kinase","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7LIF4|G7LIF4_MEDTR","MTR_8g041670","receptor-like kinase",NA
+"347","Medtr8g042000.1",1,12,"Cytochrome P450 family 72 protein","GO:0005506,GO:0009055,GO:0016705,GO:0020037,GO:0055114","tr|G7LJ51|G7LJ51_MEDTR","MTR_8g042000","cytochrome P450 family 72 protein",NA
+"348","Medtr8g043970.1",0,1,"Calmodulin-domain kinase CDPK protein","GO:0004672,GO:0004674,GO:0004713,GO:0005509,GO:0005524,GO:0006468,GO:0016772","tr|G7L6Z2|G7L6Z2_MEDTR","MTR_8g043970","calmodulin-domain kinase CDPK protein","DMI3"
+"349","Medtr8g044140.1",0,0,"(Iso)flavonoid glycosyltransferase","GO:0008152,GO:0016758","tr|A6XNC7|A6XNC7_MEDTR",NA,"UDP-glucosyltransferase family protein",NA
+"350","Medtr8g052050.1",2,4,"Cysteine-rich RLK (Receptor-like kinase) protein","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7L9B8|G7L9B8_MEDTR","MTR_8g052050","cysteine-rich RLK (receptor-like kinase) protein",NA
+"351","Medtr8g052120.1",2,3,"Cysteine-rich RLK (Receptor-like kinase) protein","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7L9C4|G7L9C4_MEDTR","MTR_8g052120","cysteine-rich RLK (receptor-like kinase) protein",NA
+"352","Medtr8g059435.1",3,4,"Peptidyl-prolyl cis-trans isomerase","GO:0003755,GO:0006457","tr|A0A072U108|A0A072U108_MEDTR","MTR_8g059435","peptidyl-prolyl cis-trans isomerase",NA
+"353","Medtr8g063700.1",3,29,"Plant/T23E23-13 protein, putative",NA,"tr|A0A072TRZ8|A0A072TRZ8_MEDTR","MTR_8g063700","plant/T23E23-13 protein, putative",NA
+"354","Medtr8g064610.1",2,6,"Zinc-binding dehydrogenase family oxidoreductase","GO:0000166,GO:0008270,GO:0016491,GO:0016747","tr|A0A072TS46|A0A072TS46_MEDTR","MTR_8g064610","zinc-binding dehydrogenase family oxidoreductase",NA
+"355","Medtr8g065740.1",0,1,"Transcription factor","GO:0046983","tr|G7LG73|G7LG73_MEDTR","MTR_8g065740","transcription factor",NA
+"356","Medtr8g066310.1",3,2,"Transcription factor KAN2","GO:0003677","tr|G7LGX4|G7LGX4_MEDTR","MTR_8g066310","transcription factor KAN2",NA
+"357","Medtr8g066740.1",0,0,"Zinc finger, C3HC4 type (RING finger) protein","GO:0005515,GO:0008270","tr|G7LH16|G7LH16_MEDTR","MTR_8g066740","zinc finger, C3HC4 type (RING finger) protein",NA
+"358","Medtr8g069240.1",0,0,"Uncharacterized protein",NA,"tr|G7LJB1|G7LJB1_MEDTR","MTR_8g069240","hypothetical protein",NA
+"359","Medtr8g069390.1",2,4,"Phosphate transporter 2-1",NA,"tr|Q8GTR3|Q8GTR3_MEDTR","MTR_8g069390","phosphate transporter 2-1",NA
+"360","Medtr8g070510.2",0,1,"EF hand calcium-binding family protein","GO:0005509","tr|G7LJD2|G7LJD2_MEDTR","MTR_8g070510","EF hand calcium-binding family protein",NA
+"361","Medtr8g075150.1",2,28,"MID1-complementing activity-like protein",NA,"tr|G7LB65|G7LB65_MEDTR","MTR_8g075150","MID1-complementing activity-like protein",NA
+"362","Medtr8g077830.1",0,0,"Sulfite exporter TauE/SafE family protein",NA,"tr|G7LEU1|G7LEU1_MEDTR","MTR_8g077830","sulfite exporter TauE/SafE family protein",NA
+"363","Medtr8g080280.1",2,4,"Plant U-box protein","GO:0000151,GO:0004842,GO:0005488,GO:0005515,GO:0016567","tr|A0A072TT17|A0A072TT17_MEDTR","MTR_8g080280","plant U-box protein",NA
+"364","Medtr8g081020.1",3,12,"Polyubiquitin 3","GO:0005515","tr|A0A072TT81|A0A072TT81_MEDTR","MTR_8g081020","polyubiquitin 3",NA
+"365","Medtr8g081040.1",4,12,"Xyloglucan endotransglucosylase/hydrolase","GO:0004553,GO:0005975","tr|A0A072TT00|A0A072TT00_MEDTR","MTR_8g081040","xyloglucan endotransglucosylase/hydrolase family protein",NA
+"366","Medtr8g083530.1",2,7,"Cytosolic aldehyde dehydrogenase RF2C","GO:0008152,GO:0016491,GO:0016620,GO:0055114","tr|G7L8Y6|G7L8Y6_MEDTR","MTR_8g083530","cytosolic aldehyde dehydrogenase RF2C",NA
+"367","Medtr8g085280.1",0,0,"Histidine kinase-, DNA gyrase B","GO:0005524","tr|G7LHV1|G7LHV1_MEDTR","MTR_8g085280","histidine kinase-, DNA gyrase B",NA
+"368","Medtr8g086050.1",0,1,"Acyl-activating enzyme 17, peroxisomal protein, putative",NA,"tr|G7LIP4|G7LIP4_MEDTR","MTR_8g086050","acyl-activating enzyme 17, peroxisomal protein, putative",NA
+"369","Medtr8g087590.1",0,0,"NB-ARC domain disease resistance protein",NA,"tr|G7L7A4|G7L7A4_MEDTR","MTR_8g087590","NB-ARC domain disease resistance protein",NA
+"370","Medtr8g088760.1",2,8,"Cysteine-rich RLK (Receptor-like kinase) protein","GO:0004672,GO:0004674,GO:0004713,GO:0005524,GO:0006468,GO:0016772","tr|G7L8V1|G7L8V1_MEDTR","MTR_8g088760","cysteine-rich RLK (receptor-like kinase) protein",NA
+"371","Medtr8g099665.1",0,1,"Glutaredoxin (GRX) family protein","GO:0009055,GO:0015035,GO:0045454","tr|A0A072U5Y7|A0A072U5Y7_MEDTR","MTR_8g099665","glutaredoxin (GRX) family protein",NA
+"372","Medtr8g104850.1",3,6,"O-fucosyltransferase family protein",NA,"tr|G7LAH6|G7LAH6_MEDTR","MTR_8g104850","O-fucosyltransferase family protein",NA
+"373","Medtr8g105560.1",3,23,"Transcription termination factor family protein",NA,"tr|G7LBF2|G7LBF2_MEDTR","MTR_8g105560","transcription termination factor family protein",NA
+"374","Medtr8g106820.1",1,21,"Transducin/WD40 repeat protein","GO:0005515","tr|Q1SN19|Q1SN19_MEDTR","MTR_8g106820","transducin/WD40 repeat protein",NA
+"375","Medtr8g466240.1",3,1,"UDP-glucosyltransferase family protein",NA,"tr|A0A072TQ85|A0A072TQ85_MEDTR","MTR_8g466240","UDP-glucosyltransferase family protein",NA
+"376","Medtr8g468210.1",4,28,"Homeobox leucine zipper ATHB-like protein","GO:0000976,GO:0003677,GO:0003700,GO:0005634,GO:0006355,GO:0043565","tr|A0A072U1W4|A0A072U1W4_MEDTR","MTR_8g468210","homeobox leucine zipper ATHB-like protein",NA
